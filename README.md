@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # shnapshotalyzer-30000
 
 Demo project to manage AWS EC2 instance shnapshots
@@ -15,7 +14,8 @@ shotty uses the configuration file created by the AWS calc_dist
 
 ## Running
 
-'pipenv run "python shotty/shotty.py"''
-=======
+'pipenv run "python shotty/shotty.py' <command>
+<-project=PROJECT>"''
 
->>>>>>> ef9a8653d58ef73910cab99760e00d9ef8f54501
+*command* is list, start or stop
+*project* is optional 
